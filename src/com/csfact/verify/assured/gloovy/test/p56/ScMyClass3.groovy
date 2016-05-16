@@ -10,6 +10,7 @@ class MyClass3{
        println "yobidashi02"
     }
 
+
     def yobidashi03(){
         println "yobidashi03"
     }

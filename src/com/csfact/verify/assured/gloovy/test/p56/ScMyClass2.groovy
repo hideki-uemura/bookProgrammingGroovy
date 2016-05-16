@@ -6,7 +6,7 @@ class MyClass2 {
 
 }
 
-
+//完璧
 
 assert new MyClass2().x == 2
 assert new MyClass2()."x" == 2
