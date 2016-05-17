@@ -1,3 +1,5 @@
+package com.csfact.verify.assured.gloovy.test.chap03.p51
+
 class MultiMethod{
 
 	def hello(String s){

@@ -1,4 +1,4 @@
-package com.csfact.verify.assured.gloovy.test.p53
+package com.csfact.verify.assured.gloovy.test.chap03.p53
 
 class MyClass {
 

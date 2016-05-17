@@ -1,3 +1,5 @@
+package com.csfact.verify.assured.gloovy.test.chap03.p48
+
 class MapParam{
 
 	void paramTest(param){
