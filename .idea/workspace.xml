@@ -6,7 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23f4c74c-3cf5-4108-a5ad-4044143632d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p71/P71ClosureTest01.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p7273/P72ClosureNoParam.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p74/P74ClosureContext.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p75/P75ClosureCotrol.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p79/P79ClosureCallback.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p80/P80CllectinHani.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="programmingGroovy.iws" />
@@ -28,7 +32,73 @@
     <favorites_list name="programmingGroovy" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="P72ClosureNoParam.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p7273/P72ClosureNoParam.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P74ClosureContext.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p74/P74ClosureContext.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P75ClosureCotrol.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p75/P75ClosureCotrol.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P79ClosureCallback.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p79/P79ClosureCallback.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P80CllectinHani.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p80/P80CllectinHani.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultGroovyMethods.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/010_NonRegistProgram/groovy/groovy-2.4.6/lib/groovy-2.4.6.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="1098" column="30" selection-start-line="1098" selection-start-column="30" selection-end-line="1098" selection-end-column="30" />
+              <folding>
+                <element signature="e#39469#39470#0" expanded="true" />
+                <element signature="e#39528#39529#0" expanded="true" />
+                <element signature="e#40437#40438#0" expanded="true" />
+                <element signature="e#40494#40495#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,6 +148,12 @@
         <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p70/p70Generics.groovy" />
         <option value="D:/010_NonRegistProgram/groovy/groovy-2.4.6/lib/groovy-2.4.6.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class" />
         <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p71/P71ClosureTest01.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p72/P72ClosureNoParam.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p7273/P72ClosureNoParam.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p74/P74ClosureContext.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p75/P75ClosureCotrol.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p79/P79ClosureCallback.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p80/P80CllectinHani.groovy" />
       </list>
     </option>
   </component>
@@ -140,6 +216,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingGroovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingGroovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chap03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingGroovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingGroovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chap03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p80" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P80CllectinHani.groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -161,49 +281,49 @@
       <recent name="D:\012_DATA\30_repository\03_GitRepository\programmingGroovy\src\com\csfact\verify\assured\gloovy\test\chap03" />
     </key>
   </component>
-  <component name="RunManager" selected="Groovy.P71ClosureTest01">
-    <configuration default="false" name="P62Equals" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+  <component name="RunManager" selected="Groovy.P80CllectinHani">
+    <configuration default="false" name="P72ClosureNoParam (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p62/P62Equals.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p7273/P72ClosureNoParam.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p62" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p7273" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="P62isBoolean" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration default="false" name="P74ClosureContext" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p62/P62isBoolean.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p74/P74ClosureContext.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p62" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p74" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="P68GString" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration default="false" name="P75ClosureCotrol" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p68/P68GString.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p75/P75ClosureCotrol.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p68" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p75" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="p70Generics" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration default="false" name="P79ClosureCallback" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p70/p70Generics.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p79/P79ClosureCallback.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p70" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p79" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="P71ClosureTest01" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration default="false" name="P80CllectinHani" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p71/P71ClosureTest01.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p80/P80CllectinHani.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p71" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p80" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
@@ -506,19 +626,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Groovy.P48Sono2Class" />
-      <item index="1" class="java.lang.String" itemvalue="Groovy.P62Equals" />
-      <item index="2" class="java.lang.String" itemvalue="Groovy.P62isBoolean" />
-      <item index="3" class="java.lang.String" itemvalue="Groovy.P68GString" />
-      <item index="4" class="java.lang.String" itemvalue="Groovy.p70Generics" />
-      <item index="5" class="java.lang.String" itemvalue="Groovy.P71ClosureTest01" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.P72ClosureNoParam (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Groovy.P74ClosureContext" />
+      <item index="3" class="java.lang.String" itemvalue="Groovy.P75ClosureCotrol" />
+      <item index="4" class="java.lang.String" itemvalue="Groovy.P79ClosureCallback" />
+      <item index="5" class="java.lang.String" itemvalue="Groovy.P80CllectinHani" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Groovy.P71ClosureTest01" />
-        <item index="1" class="java.lang.String" itemvalue="Groovy.p70Generics" />
-        <item index="2" class="java.lang.String" itemvalue="Groovy.P68GString" />
-        <item index="3" class="java.lang.String" itemvalue="Groovy.P62isBoolean" />
-        <item index="4" class="java.lang.String" itemvalue="Groovy.P62Equals" />
+        <item index="0" class="java.lang.String" itemvalue="Groovy.P80CllectinHani" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.P79ClosureCallback" />
+        <item index="2" class="java.lang.String" itemvalue="Groovy.P75ClosureCotrol" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy.P74ClosureContext" />
+        <item index="4" class="java.lang.String" itemvalue="Groovy.P72ClosureNoParam (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -611,7 +731,14 @@
       <option name="project" value="LOCAL" />
       <updated>1463585511724</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="study01_package_move&#10;">
+      <created>1463587415368</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1463587415368</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -629,17 +756,17 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3376206" sideWeight="0.48720682" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3376206" sideWeight="0.48294243" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25294748" sideWeight="0.5191898" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25294748" sideWeight="0.5234541" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17148982" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25294748" sideWeight="0.48081023" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25294748" sideWeight="0.47654584" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21215352" sideWeight="0.7116212" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21215352" sideWeight="0.7116212" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -715,6 +842,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -737,6 +865,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -773,6 +902,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -831,6 +961,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -929,14 +1060,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/010_NonRegistProgram/groovy/groovy-2.4.6/lib/groovy-2.4.6.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="896" column="70" selection-start-line="896" selection-start-column="57" selection-end-line="896" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -957,6 +1080,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p7273/P72ClosureNoParam.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p74/P74ClosureContext.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/010_NonRegistProgram/groovy/groovy-2.4.6/lib/groovy-2.4.6.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="1098" column="30" selection-start-line="1098" selection-start-column="30" selection-end-line="1098" selection-end-column="30" />
+          <folding>
+            <element signature="e#39469#39470#0" expanded="true" />
+            <element signature="e#39528#39529#0" expanded="true" />
+            <element signature="e#40437#40438#0" expanded="true" />
+            <element signature="e#40494#40495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p75/P75ClosureCotrol.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p79/P79ClosureCallback.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p80/P80CllectinHani.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding />
         </state>
       </provider>
