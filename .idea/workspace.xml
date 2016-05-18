@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23f4c74c-3cf5-4108-a5ad-4044143632d3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/test.groovy" afterPath="" />
+    <list default="true" id="23f4c74c-3cf5-4108-a5ad-4044143632d3" name="Default" comment="study01_package_move&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2ClassNamedParam.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2ClassPrmDefault.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49ClassNamedConstract.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49Ptn2DefaultParam.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p50/P50ClassStatic.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/input.txt" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/test/input.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p48/ScriptMapConstractor.groovy" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48/ScriptMapConstractor.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p48/ScriptMapParam.groovy" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48/ScriptMapParam.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p51/ScMultiMethod.groovy" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p51/ScMultiMethod.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p53/ScMyClass.groovy" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p53/ScMyClass.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p56/ScMyClass2.groovy" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p56/ScMyClass2.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p56/ScMyClass3.groovy" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p56/ScMyClass3.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/test.groovy" afterPath="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/test/test.groovy" />
     </list>
     <ignored path="programmingGroovy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +29,38 @@
     <favorites_list name="programmingGroovy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="P49ClassNamedConstract.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49ClassNamedConstract.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P49Ptn2DefaultParam.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49Ptn2DefaultParam.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P50ClassStatic.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p50/P50ClassStatic.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,12 +90,30 @@
         <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p56/sayHello2.groovy" />
         <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p56/ScMyClass3.groovy" />
         <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48/ScriptMapConstractor.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p33/input.txt" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p33/P33Class.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p43/P43Class.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2Class.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2ClassNamedParam.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49ClassNamedConstractor.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49ClassNamedConstract.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49Ptn2DefaultParam.groovy" />
+        <option value="$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p50/P50ClassStatic.groovy" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -79,7 +124,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -133,9 +178,31 @@
               <option name="myItemId" value="chap03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="programmingGroovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingGroovy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chap03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p50" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P50ClassStatic.groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -154,6 +221,40 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="chap03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p49" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P49Ptn2DefaultParam.groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingGroovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingGroovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chap03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p49" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P49ClassNamedConstract.groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -176,31 +277,49 @@
       <recent name="D:\012_DATA\30_repository\03_GitRepository\programmingGroovy\src\com\csfact\verify\assured\gloovy\test\chap03" />
     </key>
   </component>
-  <component name="RunManager" selected="Groovy.ScMyClass3">
-    <configuration default="false" name="sayHello2" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+  <component name="RunManager" selected="Groovy.P50ClassStatic">
+    <configuration default="false" name="P43Class" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/sayHello2.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p43/P43Class.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p43" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration default="false" name="P48Sono2ClassNamedParam" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/test.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2ClassNamedParam.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ScMyClass3" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration default="false" name="P49ClassNamedConstract" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="programmingGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p56/ScMyClass3.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49ClassNamedConstract.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/p56" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P49Ptn2DefaultParam" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="programmingGroovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49Ptn2DefaultParam.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P50ClassStatic" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="programmingGroovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p50/P50ClassStatic.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p50" />
       <setting name="debug" value="false" />
       <method />
     </configuration>
@@ -492,16 +611,30 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Groovy.sayHello2" />
-      <item index="1" class="java.lang.String" itemvalue="Groovy.test" />
-      <item index="2" class="java.lang.String" itemvalue="Groovy.ScMyClass3" />
+    <configuration default="false" name="P48Sono2Class" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="programmingGroovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2ClassPrmDefault.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Groovy.P48Sono2Class" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.P43Class" />
+      <item index="2" class="java.lang.String" itemvalue="Groovy.P48Sono2ClassNamedParam" />
+      <item index="3" class="java.lang.String" itemvalue="Groovy.P49ClassNamedConstract" />
+      <item index="4" class="java.lang.String" itemvalue="Groovy.P49Ptn2DefaultParam" />
+      <item index="5" class="java.lang.String" itemvalue="Groovy.P50ClassStatic" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Groovy.ScMyClass3" />
-        <item index="1" class="java.lang.String" itemvalue="Groovy.sayHello2" />
-        <item index="2" class="java.lang.String" itemvalue="Groovy.test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Groovy.P50ClassStatic" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.P49Ptn2DefaultParam" />
+        <item index="2" class="java.lang.String" itemvalue="Groovy.P49ClassNamedConstract" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy.P48Sono2ClassNamedParam" />
+        <item index="4" class="java.lang.String" itemvalue="Groovy.P43Class" />
       </list>
     </recent_temporary>
   </component>
@@ -549,37 +682,74 @@
       <option name="project" value="LOCAL" />
       <updated>1463393683626</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="study01_package_move&#10;">
+      <created>1463505885603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1463505885603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="study01_package_move&#10;">
+      <created>1463506033531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1463506033531</updated>
+    </task>
+    <task id="LOCAL-00007" summary="study01_package_move&#10;">
+      <created>1463506736081</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1463506736081</updated>
+    </task>
+    <task id="LOCAL-00008" summary="study01_package_move&#10;">
+      <created>1463506942471</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1463506942471</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
+    <frame x="-8" y="0" width="1936" height="1066" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3376206" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17148982" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.4914712" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31614584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21215352" sideWeight="0.49361023" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21215352" sideWeight="0.5063898" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2540193" sideWeight="0.4936034" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -589,10 +759,21 @@
     <MESSAGE value="in" />
     <MESSAGE value="文字列メソッド呼び出し" />
     <MESSAGE value="study01" />
-    <option name="LAST_COMMIT_MESSAGE" value="study01" />
+    <MESSAGE value="study01_package_move&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="study01_package_move&#10;" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p33/P33Class.groovy</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -713,6 +894,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p33/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="0" selection-start-column="5" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p33/P33Class.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p43/P43Class.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2ClassNamedParam.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p48_2/P48Sono2ClassPrmDefault.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49ClassNamedConstract.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p49/P49Ptn2DefaultParam.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/csfact/verify/assured/gloovy/test/chap03/p50/P50ClassStatic.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
